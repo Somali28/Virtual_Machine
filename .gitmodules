@@ -1,0 +1,3 @@
+[submodule "lc3as.py"]
+	path = lc3as.py
+	url = git@github.com:Somali28/lc3-asm-to-obj.git
